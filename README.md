@@ -13,7 +13,7 @@ This is a simple landing page template for a website, designed using HTML and CS
 
 1. **Clone this repository to your local machine:**
     ```sh
-    git clone https://github.com/ashishrautela612/LandingPage.git
+    git clone https://github.com/ashishrautela612/gardenLandingPage
     ```
 
 2. **Customize the content:**
